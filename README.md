@@ -1,51 +1,43 @@
 "## Hi, I'm LilYoopug! 👋
 
-Full-Stack Developer | AI Enthusiast | Tech Innovator
+AI Enthusiast | Tech Explorer | Innovation Seeker
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a passionate Full-Stack Developer based in Indonesia with a love for creating elegant solutions to complex problems. I enjoy exploring new technologies and frameworks to build efficient, scalable applications.
+I'm a tech enthusiast based in Indonesia with a passion for exploring the intersection of artificial intelligence and software development. I love experimenting with new tools and technologies that push the boundaries of what's possible.
 
-- 🌱 Currently exploring the intersection of AI and web development
-- 🤖 Fascinated by artificial intelligence and its applications in software development
-- 💼 Experienced in building full-stack applications with modern frameworks
+- 🤖 Fascinated by artificial intelligence and its potential to transform development
 - 🌍 Based in Indonesia
-- 🤝 Open to collaborating on interesting projects
-- 💡 Always excited to learn and implement new technologies
+- 🤝 Open to connecting with fellow tech enthusiasts
+- 💡 Always excited to learn about emerging technologies
 
-### 🛠️ My Expertise
-
-**Web Development:**
-- Frontend frameworks and libraries
-- Backend systems and APIs
-- Database design and management
-- Responsive and user-friendly interfaces
+### 🛠️ What I Explore
 
 **AI & Innovation:**
-- AI tools and technologies integration
-- Machine learning concepts
+- AI-assisted development tools
+- Machine learning applications
 - Automation and efficiency improvements
-- Exploring AI-assisted development
+- Exploring the future of coding with AI
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilYoopug&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilYoopug&layout=compact&theme=radical)
 
-### 🎯 My Goals
-- 🚀 Explore more AI-powered development tools and techniques
-- 🌱 Continue learning about artificial intelligence applications
-- 🤝 Contribute to innovative projects that make a positive impact
-- 💡 Create solutions that leverage AI to solve real-world problems
+### 🎯 My Interests
+- 🚀 Exploring AI-powered development tools and techniques
+- 🌱 Learning about artificial intelligence applications
+- 🤝 Connecting with the developer community
+- 💡 Experimenting with innovative tech solutions
 
 ### 🌟 Fun Facts
 - 🤖 I love experimenting with AI tools and technologies
 - 💻 I'm fascinated by how AI can enhance the development process
 - ☕ Coffee and coding are my favorite combination
 - 📖 Always reading about the latest tech trends and AI developments
-- 🛠️ I enjoy building projects that blend traditional coding with AI capabilities
+- 🔬 I enjoy exploring new ways to integrate AI into everyday workflows
 
 ---
 
-Thanks for visiting my profile! 🌟 Feel free to explore my repositories and connect with me. 😊
+Thanks for visiting my profile! 🌟 Feel free to connect and share ideas. 😊
 "
